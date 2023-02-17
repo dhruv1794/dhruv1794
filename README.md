@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a versatile professional with a broad range of technical skills and experience. Throughout my career, I have taken on diverse roles, from HTML developer to software developer, and have gained expertise in areas such as Machine Learning, backend development, script writing, and more. During my time as a Master's student at Northeastern University, I was a Teaching Assistant for Machine Learning and received an internship extension at Samsung Ads for seven months due to my exceptional performance.
+
+As a problem solver, I have been an integral part of two startups and have a proven track record of delivering efficient solutions. My previous experience includes optimizing processes at Sezzle, where I created Chrome extensions, software development kits, and contributed to their open-source widget code.
+I have demonstrated my ability to quickly adopt new technologies and tools, such as bringing Vue.js to my first job, creating a job portal using Laravel and Vue.js, building e-commerce websites with React and Node.js, and currently learning WebGL and the Three.js library for Augmented Reality. Additionally, I have held leadership positions, such as Graduate Student Ambassador and Teaching Assistant, and continue to broaden my knowledge and skills.
+
